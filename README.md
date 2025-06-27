@@ -20,3 +20,5 @@ HTML5
 CSS3
 
 JavaScript
+<br>
+<img src="./assets/Capturar.PNG" alt="logo">
