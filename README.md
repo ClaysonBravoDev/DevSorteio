@@ -21,4 +21,7 @@ CSS3
 
 JavaScript
 <br>
-<img src="./assets/Capturar.PNG" alt="logo">
+<br>
+<br>
+![Capturar](https://github.com/user-attachments/assets/571a426b-f2a1-4a16-9466-cc6fac456d85)
+
