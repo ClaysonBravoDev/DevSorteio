@@ -15,10 +15,11 @@ Estilo visual personalizável (tema claro/escuro pode ser adicionado)
 Este projeto foi desenvolvido como parte dos estudos em desenvolvimento web, e serve tanto como prática de JavaScript quanto para integrar conhecimentos em manipulação de DOM e lógica de programação.
 
 👨‍💻 Tecnologias utilizadas
+<br>
 HTML5
-
+<br>
 CSS3
-
+<br>
 JavaScript
 <br>
 <br>
